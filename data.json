@@ -1,3 +1,194 @@
 {
-  "name": "sidduganeshsid"
+  "DateOfBirth": "2001-09-09",
+  "DateOfBirthWithTime": "2001-09-09T05:05:00",
+
+  "FirstName": "Siddu Ganesh",
+  "LastName": "Musa",
+
+  "FullName": "Siddu Ganesh Musa",
+
+  "ProfilePicture": "https://avatars.githubusercontent.com/u/94279014?v=4",
+
+  "Address": "123 Vattinagulapally, Hyderabad, Telangana, India",
+  "City": "Hyderabad",
+  "Country": "India",
+  "PostalCode": "500075",
+
+  "Email": "sidduganesh@gmail.com",
+  "PhoneNumber": "+1234567890",
+
+  "About": "I'm sincere guy who is passionate about web development and constantly learning new technologies.",
+
+  "Education": [
+    {
+      "Degree": "Bachelor of Technology",
+      "FieldOfStudy": "Computer Science & Engineering",
+      "Institute": "Ellenki Institute of Engineering & Technology",
+      "UniversityOrBoard": "JNTUH University",
+      "StartYear": "2019",
+      "EndYear": "2023",
+      "Location": "Patancheru, Telangana",
+      "GraduationYear": "2023"
+    },
+    {
+      "Degree": "XII",
+      "FieldOfStudy": "Science",
+      "Institute": "Royal Junior College",
+      "UniversityOrBoard": "State Board",
+      "StartYear": "2017",
+      "EndYear": "2019",
+      "Location": "Mehdipatnam, Telangana",
+      "GraduationYear": "2019"
+    },
+    {
+      "Degree": "X",
+      "FieldOfStudy": "General",
+      "Institute": "Vidya Vikas High School",
+      "UniversityOrBoard": "State Board",
+      "StartYear": "2015",
+      "EndYear": "2017",
+      "Location": "Hyderabad, Telangana",
+      "GraduationYear": "2017"
+    }
+  ],
+
+  "Skills": [
+    {
+      "category": "Programming",
+      "skills": ["JavaScript"]
+    },
+    {
+      "category": "Web Development",
+      "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+    },
+    {
+      "category": "Database",
+      "skills": ["MySQL", "MongoDB", "PostgreSQL"]
+    },
+    {
+      "category": "DevOps",
+      "skills": ["Docker"]
+    },
+    {
+      "category": "Cloud",
+      "skills": ["AWS"]
+    }
+  ],
+
+  "Projects": [
+    {
+      "Name": "Portfolio Website",
+      "Description": "A personal portfolio website to showcase my projects and skills.",
+      "Technologies": ["HTML", "CSS", "JavaScript", "React"],
+      "Link": "https://github.com/sidduganeshm/portfolio-website"
+    },
+    {
+      "Name": "Blog Platform",
+      "Description": "A web application for creating and sharing blog posts.",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "Link": "https://github.com/sidduganeshm/blog-platform"
+    },
+    {
+      "Name": "E-commerce Website",
+      "Description": "An online platform for buying and selling products.",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "Link": "https://github.com/sidduganeshm/e-commerce-website"
+    },
+    {
+      "Name": "Task Management App",
+      "Description": "A web application to manage daily tasks and to-do lists.",
+      "Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "Link": "https://github.com/sidduganeshm/task-management-app"
+    }
+  ],
+
+  "Experience": [
+    {
+      "Role": "IT Intern",
+      "Company": "Meluha Technologies Pvt. Ltd.",
+      "StartYear": "2025",
+      "EndYear": "present",
+      "Location": "Hyderabad, Telangana",
+      "Description": "Worked on developing web applications using JavaScript, React, and Node.js."
+    },
+    {
+      "Role": "Software Developer",
+      "Company": "Meluha Technologies Pvt. Ltd.",
+      "StartYear": "2025",
+      "EndYear": "2025",
+      "Location": "Hyderabad, Telangana",
+      "Description": "Worked on developing web applications using JavaScript, React, and Node.js."
+    }
+  ],
+
+  "Certifications": [
+    {
+      "Name": "AWS Certified Solutions Architect",
+      "IssuingOrganization": "Amazon Web Services",
+      "IssueDate": "2023-06",
+      "ExpirationDate": "2026-06",
+      "CredentialID": "AWS-123456"
+    },
+    {
+      "Name": "Certified Kubernetes Administrator",
+      "IssuingOrganization": "Cloud Native Computing Foundation",
+      "IssueDate": "2024-01",
+      "ExpirationDate": "2027-01",
+      "CredentialID": "CKA-654321"
+    }
+  ],
+
+  "Awards": [
+    {
+      "Name": "Best Web Developer Award",
+      "IssuingOrganization": "Meluha Technologies Pvt. Ltd.",
+      "IssueDate": "2024-12"
+    }
+  ],
+
+  "Hobbies": [
+    "Reading",
+    "Coding",
+    "Traveling",
+    "Gaming"
+  ],
+
+  "Languages": [
+    "English",
+    "Telugu",
+    "Hindi"
+  ],
+
+  "References": [
+    {
+      "Name": "John Doe",
+      "Relationship": "Manager",
+      "Contact": "john.doe@example.com"
+    }
+  ]
+
+
 }
