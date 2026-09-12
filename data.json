@@ -1,6 +1,6 @@
 {
   "DateOfBirth": "2001-09-09",
-  "DateOfBirthWithTime": "2001-09-09T05:05:00",
+
 
   "FirstName": "Siddu Ganesh",
   "LastName": "Musa",
@@ -72,7 +72,10 @@
     {
       "category": "Cloud",
       "skills": ["AWS"]
-    }
+    },
+    {
+      "category": "Tools",
+      "skills": ["VS Code", "Cursor"]
   ],
 
   "Projects": [
@@ -104,30 +107,7 @@
     }
   ],
 
-  "Certifications": [
-    {
-      "Name": "AWS Certified Solutions Architect",
-      "IssuingOrganization": "Amazon Web Services",
-      "IssueDate": "2023-06",
-      "ExpirationDate": "2026-06",
-      "CredentialID": "AWS-123456"
-    },
-    {
-      "Name": "Certified Kubernetes Administrator",
-      "IssuingOrganization": "Cloud Native Computing Foundation",
-      "IssueDate": "2024-01",
-      "ExpirationDate": "2027-01",
-      "CredentialID": "CKA-654321"
-    }
-  ],
-
-  "Awards": [
-    {
-      "Name": "Best Web Developer Award",
-      "IssuingOrganization": "Meluha Technologies Pvt. Ltd.",
-      "IssueDate": "2024-12"
-    }
-  ],
+ 
 
   "Hobbies": [
     "Reading",
