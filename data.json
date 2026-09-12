@@ -81,48 +81,8 @@
       "Description": "A personal portfolio website to showcase my projects and skills.",
       "Technologies": ["HTML", "CSS", "JavaScript", "React"],
       "Link": "https://github.com/sidduganeshm/portfolio-website"
-    },
-    {
-      "Name": "Blog Platform",
-      "Description": "A web application for creating and sharing blog posts.",
-      "Technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "Link": "https://github.com/sidduganeshm/blog-platform"
-    },
-    {
-      "Name": "E-commerce Website",
-      "Description": "An online platform for buying and selling products.",
-      "Technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "Link": "https://github.com/sidduganeshm/e-commerce-website"
-    },
-    {
-      "Name": "Task Management App",
-      "Description": "A web application to manage daily tasks and to-do lists.",
-      "Technologies": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB"
-      ],
-      "Link": "https://github.com/sidduganeshm/task-management-app"
     }
+ 
   ],
 
   "Experience": [
