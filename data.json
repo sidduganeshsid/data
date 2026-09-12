@@ -126,21 +126,21 @@
   ],
 
   "Experience": [
-    {
-      "Role": "IT Intern",
+     {
+      "Role": "Software Developer",
       "Company": "Meluha Technologies Pvt. Ltd.",
       "StartYear": "2025",
-      "EndYear": "present",
+      "EndYear": "Present",
       "Location": "Hyderabad, Telangana",
       "Description": "Worked on developing web applications using JavaScript, React, and Node.js."
     },
     {
-      "Role": "Software Developer",
+      "Role": "IT Intern",
       "Company": "Meluha Technologies Pvt. Ltd.",
       "StartYear": "2025",
       "EndYear": "2025",
       "Location": "Hyderabad, Telangana",
-      "Description": "Worked on developing web applications using JavaScript, React, and Node.js."
+      "Description": "Worked on Backend Migration"
     }
   ],
 
